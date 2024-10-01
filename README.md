@@ -15,7 +15,7 @@ Manipulação de datas (SimpleDateFormat, Calendar)
 Estruturas de controle e exceções
 Motivação:
 Este projeto foi desenvolvido com o objetivo de aprimorar habilidades em Orientação a Objetos, manipulação de listas e datas, além de estruturar um sistema simples de gestão de contratos de trabalho.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Management of Employment Contracts with Income Calculation This Java project simulates the management of workers and employment contracts. It allows the registration of workers with different levels (Junior, Mid-Level, Senior) and departments, in addition to adding hourly contracts and calculating monthly income based on active contracts for the worker.
 
 Features:
