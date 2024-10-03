@@ -1,27 +1,56 @@
-# employee-management-system
+# WorkerContractManagement
+
+## Descrição (Português)
 Projeto feito para o curso udemy - Java completo:
+Este projeto é um sistema de gerenciamento de contratos de trabalho em Java. Ele permite o cadastro de trabalhadores, associação de contratos por hora, e o cálculo do rendimento mensal de acordo com os contratos adicionados.
 
-Gestão de Contratos de Trabalho com Cálculo de Rendimentos
-Este projeto Java simula a gestão de trabalhadores e contratos de trabalho. Ele permite o cadastro de trabalhadores com diferentes níveis (Junior, Mid-Level, Senior) e departamentos, além de adicionar contratos por hora e calcular o rendimento mensal com base nos contratos ativos para o trabalhador.
+### Funcionalidades:
+- Cadastro de trabalhador com nome, nível (Junior, MidLevel, Senior) e salário base.
+- Associação de contratos de trabalho, com data, valor por hora e duração em horas.
+- Cálculo do rendimento mensal baseado nos contratos e no salário base.
+- Entrada de dados via terminal para adicionar contratos e consultar rendimentos.
 
-Funcionalidades:
+### Tecnologias Utilizadas:
+- Java
+- Programação Orientada a Objetos (POO)
+- Enums para níveis de trabalhador (WorkerLevel)
+- Manipulação de datas com `SimpleDateFormat`
 
-Cadastro de trabalhadores com base salarial e nível profissional (enum)
-Registro e gerenciamento de contratos por hora
-Cálculo de rendimentos mensais considerando data e horas trabalhadas
-Entrada e validação de dados com tratamento de exceções
-Tecnologias utilizadas:
+### Como Executar:
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/WorkerContractManagement.git
+   ```
+2. Compile e execute o arquivo principal `Program.java` em sua IDE ou terminal.
 
-Java (POO, Listas, Enums)
-Manipulação de datas (SimpleDateFormat, Calendar)
-Estruturas de controle e exceções
-Motivação:
-Este projeto foi desenvolvido com o objetivo de aprimorar habilidades em Orientação a Objetos, manipulação de listas e datas, além de estruturar um sistema simples de gestão de contratos de trabalho.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Management of Employment Contracts with Income Calculation This Java project simulates the management of workers and employment contracts. It allows the registration of workers with different levels (Junior, Mid-Level, Senior) and departments, in addition to adding hourly contracts and calculating monthly income based on active contracts for the worker.
+3. Siga as instruções no terminal para inserir dados do trabalhador, contratos e mês/ano para calcular o rendimento.
 
-Features:
+---
 
-Registration of workers based on salary and professional level (enum) Registration and management of hourly contracts Calculation of monthly earnings considering date and hours worked Data entry and validation with exception handling Technologies used:
+## Description (English)
 
-Java (OOP, Lists, Enums) Date manipulation (SimpleDateFormat, Calendar) Control structures and exceptions Motivation: This project was developed with the aim of improving skills in Object Orientation, manipulation of lists and dates, in addition to structuring a simple system management of employment contracts.
+This project is a worker contract management system in Java. It allows registering workers, associating hourly contracts, and calculating monthly income based on the added contracts.
+
+### Features:
+- Register a worker with name, level (Junior, MidLevel, Senior), and base salary.
+- Add work contracts with date, hourly rate, and duration in hours.
+- Calculate monthly income based on contracts and base salary.
+- Input data through the terminal to add contracts and check monthly earnings.
+
+### Technologies Used:
+- Java
+- Object-Oriented Programming (OOP)
+- Enums for worker levels (WorkerLevel)
+- Date handling with `SimpleDateFormat`
+
+### How to Run:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/WorkerContractManagement.git
+   ```
+2. Compile and run the `Program.java` main file in your IDE or terminal.
+
+3. Follow the terminal instructions to input worker details, contracts, and the month/year to calculate income.
+
+---
+
