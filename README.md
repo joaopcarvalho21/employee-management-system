@@ -1,4 +1,6 @@
 # employee-management-system
+Projeto feito para o curso udemy - Java completo:
+
 Gestão de Contratos de Trabalho com Cálculo de Rendimentos
 Este projeto Java simula a gestão de trabalhadores e contratos de trabalho. Ele permite o cadastro de trabalhadores com diferentes níveis (Junior, Mid-Level, Senior) e departamentos, além de adicionar contratos por hora e calcular o rendimento mensal com base nos contratos ativos para o trabalhador.
 
