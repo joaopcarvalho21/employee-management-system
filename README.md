@@ -1,4 +1,4 @@
-# WorkerContractManagement
+# EmployeeManagementSystem
 
 ## Descrição (Português)
 Projeto feito para o curso udemy - Java completo:
